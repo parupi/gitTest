@@ -33,7 +33,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//tester//
 		//////////
 
-		//日付player
+		//日付playerプルしたい
 
 		///
 		/// ↑更新処理ここまで
