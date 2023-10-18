@@ -29,9 +29,9 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//Hello//
 		/////////
 
-		///////////
-		//tester//
-		//////////
+		//////////aa
+		//tester//aa
+		//////////aa
 
 		//日付player
 
