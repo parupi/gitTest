@@ -25,11 +25,11 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
-		/////////
+		////////////////
 		//Hello//
 		/////////
 
-		//日付playerマージしてもろ手
+
 
 		///
 		/// ↑更新処理ここまで
