@@ -25,15 +25,15 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
-		/////////
+		////////////////
 		//Hello//
 		/////////
 
-		///////////
-		//tester//
-		//////////
+		//////////aa
+		//tester//aa
+		//////////aa
 
-		//日付
+		//日付player
 
 		///
 		/// ↑更新処理ここまで
