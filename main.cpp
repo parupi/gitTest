@@ -33,7 +33,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//tester//
 		//////////
 
-		//日付
+		//日付player
 
 		///
 		/// ↑更新処理ここまで
