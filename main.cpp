@@ -29,9 +29,11 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//Hello//
 		/////////
 
-		//////////
+		///////////
 		//tester//
 		//////////
+
+		//日付
 
 		///
 		/// ↑更新処理ここまで
