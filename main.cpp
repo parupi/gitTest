@@ -1,4 +1,7 @@
 #include <Novice.h>
+/// <summary> //////
+/// third branch ///
+/// </summary>//////
 
 const char kWindowTitle[] = "LC1B_10_カワグチ_ハルキ_タイトル";
 
